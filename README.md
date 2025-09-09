@@ -5,7 +5,7 @@
 
 ---
 
-# 📚 Sistema de Biblioteca  
+# 📚 BOOKROUTE
 
 Na **AfonTech** desenvolvemos um sistema **criativo, simples e funcional** para bibliotecas escolares.  
 Nosso objetivo é acabar com bibliotecas bagunçadas e confusas, trazendo mais organização e incentivo para os alunos, além de oferecer ao bibliotecário(a) uma ferramenta eficiente para o seu trabalho diário.  
@@ -46,7 +46,7 @@ Um software moderno, intuitivo e eficiente para o gerenciamento de bibliotecas.
 
 ## 🖼️ Demonstração (Prints do Sistema)
 
-> Coloque aqui capturas de tela estratégicas do software em funcionamento. Sugestões:  
+> Capturas de tela do software em funcionamento. Sugestões:  
 
 1. **Tela de Login**  
    ![Tela de Login](coloque-o-link-ou-imagem-aqui)  
