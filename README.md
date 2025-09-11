@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rafa25MF/Smart-Library/blob/main/Logo_AfonTech.png" alt="Logo da AfonTech" width="500"/>
+  <img src="https://github.com/Rafa25MF/BOOKROUT/blob/main/Logo%20da%20BOOKROUT.png" alt="Logo da AfonTech" width="500"/>
 </p>
 
 
