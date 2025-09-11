@@ -76,4 +76,4 @@ Um software moderno, intuitivo e eficiente para o gerenciamento de bibliotecas.
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/Rafa25MF/Smart-Library.git
+   git clone https://github.com/Rafa25MF/BOOKROUT
