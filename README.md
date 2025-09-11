@@ -7,7 +7,7 @@
 
 # 📚 BOOKROUTE
 
-Na **AfonTech** desenvolvemos um sistema **criativo, simples e funcional** para bibliotecas escolares.  
+Na desenvolvemos um sistema **criativo, simples e funcional** para bibliotecas escolares.  
 Nosso objetivo é acabar com bibliotecas bagunçadas e confusas, trazendo mais organização e incentivo para os alunos, além de oferecer ao bibliotecário(a) uma ferramenta eficiente para o seu trabalho diário.  
 
 Um software moderno, intuitivo e eficiente para o gerenciamento de bibliotecas.  
@@ -62,6 +62,34 @@ Um software moderno, intuitivo e eficiente para o gerenciamento de bibliotecas.
 
 5. **Tela de Ranking de Leitores**  
    ![Relatórios](coloque-o-link-ou-imagem-aqui)  
+
+---
+
+## 👨‍💻 Criadores
+
+- **Rafael Fernandes Mistura**  
+  <a href="https://github.com/Rafa25MF" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+- **Lucas Fernandes Chaves**  
+  <a href="https://github.com/lucas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+- **Pedro Moura**  
+  <a href="https://github.com/pedro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 ---
 
