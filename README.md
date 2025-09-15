@@ -93,15 +93,30 @@ Um software moderno, intuitivo e eficiente para o gerenciamento de bibliotecas.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+# 📚 Sistema de Biblioteca
 
-- [Python](https://www.python.org/) 🐍   
-- [Tkinter / CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) para a interface gráfica  
+Um sistema completo para gerenciamento de bibliotecas, desenvolvido em **Python**, com interface gráfica, manipulação de arquivos Excel e geração de relatórios em PDF.  
 
 ---
 
-## 🚀 Como Executar o Projeto
+## ⚙️ Tecnologias Utilizadas  
 
-1. **Clone o repositório**  
-   ```bash
-   git clone https://github.com/Rafa25MF/BOOKROUT
+| Funcionalidade | Biblioteca |
+|----------------|------------|
+| Linguagem principal | [Python](https://www.python.org/) 🐍 |
+| Interface gráfica | [Tkinter](https://docs.python.org/3/library/tkinter.html), [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) |
+| Manipulação de imagens | [Pillow](https://pillow.readthedocs.io/en/stable/) |
+| Manipulação de planilhas Excel | [OpenPyXL](https://openpyxl.readthedocs.io/en/stable/) |
+| Análise e organização de dados | [Pandas](https://pandas.pydata.org/) |
+| Geração de relatórios em PDF | [ReportLab](https://www.reportlab.com/dev/docs/) |
+| Utilitários e funções internas | `os`, `csv`, `hashlib`, `threading`, `time`, `queue`, `datetime`, `collections` (bibliotecas padrão do Python) |
+
+---
+
+## 📦 Instalação das Dependências  
+
+Para instalar todas as bibliotecas necessárias de uma vez:  
+
+```bash
+pip install pillow openpyxl pandas reportlab customtkinter
+
