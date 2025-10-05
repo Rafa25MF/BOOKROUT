@@ -33,37 +33,6 @@ Um software moderno, intuitivo e eficiente para o gerenciamento de bibliotecas.
 
 ---
 
-## ✨ Funcionalidades da Tela do Aluno:
-
-- 🔐 **Sistema de login**
-- 📖 **Gerenciamento de livros** (Ver livros, buscar por título/autor/gênero).  
-- 🔄 **Controle de empréstimos e devoluções** (Empréstimos atimos, histórico de Empréstimos)
-- ⏳ **Controle de prazos e atrasos**.  
-- 📊 **Avaliações de livros** (livros mais emprestados, estrelas de avaliações, etc).   
-- 🎨 **Interface amigável** com design moderno.
-
----
-
-## 🖼️ Demonstração (Prints do Sistema)
-
-> Capturas de tela do software em funcionamento. Sugestões:  
-
-1. **Tela de Login**  
-   ![Tela de Login](coloque-o-link-ou-imagem-aqui)  
-
-2. **Tela de Livros**  
-   ![Cadastro de Livros](coloque-o-link-ou-imagem-aqui)  
-
-3. **Lista de Empréstimos**  
-   ![Lista de Usuários](coloque-o-link-ou-imagem-aqui)  
-
-4. **Tela de De Avaliações dos Alunos**  
-   ![Empréstimos](coloque-o-link-ou-imagem-aqui)  
-
-5. **Tela de Ranking de Leitores**  
-   ![Relatórios](coloque-o-link-ou-imagem-aqui)  
-
----
 
 ## 👨‍💻 Criadores
 
